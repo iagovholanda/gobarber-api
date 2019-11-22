@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://img2.gratispng.com/20180412/yuq/kisspng-handlebar-moustache-clip-art-vactor-5acf59497dc856.8827553815235382495152.jpg" alt="GoBarber" width="180">
+  <img src="https://images.vexels.com/media/users/3/130997/isolated/preview/64ec043e6b3d119f5ea79ba54a03b1bf-hipster-rolou-bigode-2-by-vexels.png" alt="GoBarber" width="180">
 <br>
 <br>
 GoBarber API
